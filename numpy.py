@@ -1,6 +1,6 @@
 # beginner_numpy_demo.py
 # A simple NumPy demo program for beginners
-
+  
 import numpy as np
   
 # 1. Create a 1D array
