@@ -5,7 +5,7 @@ It’s designed for beginners who are just getting started with Python and NumPy
  
 ---  
   
-## 📌 Features 
+## 📌 Features  
 - Create 1D and 2D arrays  
 - Generate arrays with `zeros`, `ones`, and random values 
 - Perform basic operations (addition, multiplication)         
