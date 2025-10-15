@@ -1,4 +1,4 @@
-# beginner_numpy_demo.py
+ # beginner_numpy_demo.py
 # A simple NumPy demo program for beginners
   
 import numpy as np
