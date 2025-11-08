@@ -10,7 +10,7 @@ It’s designed for beginners who are just getting started with Python and NumPy
 - Generate arrays with `zeros`, `ones`, and random values    
 - Perform basic operations (addition, multiplication) 
 - Slice and index arrays
-- Use useful NumPy functions like `mean`, `max`, and `reshape`    
+- Use useful NumPy functions like `mean`, `max`, and `reshape`     
  
 ---
 
