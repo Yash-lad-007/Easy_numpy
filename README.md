@@ -11,7 +11,7 @@ It’s designed for beginners who are just getting started with Python and NumPy
 - Perform basic operations (addition, multiplication)  
 - Slice and index arrays  
 - Use useful NumPy functions like `mean`, `max`, and `reshape`     
- 
+  
 ---
 
 ## 🛠️ Requirements
